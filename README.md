@@ -6,7 +6,9 @@
 
 ## Link to the video
 
-**
+**Task1: https://drive.google.com/file/d/1ta9APK8AtZ7vwCdPsHW9QiZNHl0mbozS/view?usp=sharing**
+
+**Task2: https://drive.google.com/file/d/14Jei9Q1h6098-Nkh00avX3t_2Ezo-xJ6/view?usp=sharing**
 
 ## What is the task about?
 **This Inclass Assignment examines the ability of processing datasets, generating plots and calculating statistics using Python.**
