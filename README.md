@@ -4,6 +4,10 @@
 
 **Link to the repository:https://github.com/ChloeH719/Mathematics-and-Statistics**
 
+## Link to the video
+
+**
+
 ## What is the task about?
 **This Inclass Assignment examines the ability of processing datasets, generating plots and calculating statistics using Python.**
 
